@@ -14,7 +14,7 @@
 - Admins: yello, lyh1379, Zele, q__w__p, Mizuki_Amony
 
 ## Featured Gameplay
-The server focuses on survival redstone, featuring a *Fully Automatic Item Sorting and Storage System (abbreviated as Full-Items)*, an extensive rail transit network (with multiple lines already built, totaling tens of thousands of meters in length), various efficient mob farms and resource farms, and multiple player settlements (such as Snow Town and Lingyue New District).
+The server focuses on survival redstone, featuring a *Fully Automatic Item Sorting and Storage System (abbreviated as Full-Items)*, an extensive rail transit network (with multiple lines already built, totaling tens of thousands of meters in length), various efficient mob farms and resource farms, multiple player settlements (such as Snow Town and Lingyue New District), and the MCDR plugin [Games_AI](https://github.com/PengZixuan30/Games_AI), which allows players to utilize an AI agent to complete various tasks more conveniently and quickly, while also providing a channel for chatting.
 
 ## Recent Task 
 Complete the [WHS_Webpage](https://github.com/Wanghai-Server/WHS_Webpage) repository to create the official website of Wanghai Server.
