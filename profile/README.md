@@ -18,3 +18,6 @@ The server focuses on survival redstone, featuring a *Fully Automatic Item Sorti
 
 ## Recent Task 
 Complete the [WHS_Webpage](https://github.com/Wanghai-Server/WHS_Webpage) repository to create the official website of Wanghai Server.
+
+## Join Us
+Join us with QQ group [939672717](https://qm.qq.com/q/jvAwWTFykU)
