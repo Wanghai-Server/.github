@@ -1,7 +1,7 @@
 # This is WangHai Server!
 
 ## Server Overview
-*WangHai Server (abbreviated as WHS)* is a Minecraft Java edition server centered on survival redstone, running version *1.21.10-Fabric*. The server has keep inventory enabled, and the seed is *-1865289266 (wanghai_commune)*. The community is friendly, emphasizing player cooperation and automated machine construction.
+*WangHai Server (abbreviated as WHS)* is a Minecraft Java edition server centered on survival redstone, running version *1.21.11-Fabric*. The server has keep inventory enabled, and the seed is *-1865289266 (wanghai_commune)*. The community is friendly, emphasizing player cooperation and automated machine construction.
 
 ## Server History
 - *Season 1 (WangHai Commune)*: Originally founded by *stevendjr*, aiming to build a cooperative survival community modeled after a "People's Commune." Later, *1410happy_* took over as the server owner.  
